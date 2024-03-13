@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+!*/
+!How\ to\ hook.md
+!.gitignore
